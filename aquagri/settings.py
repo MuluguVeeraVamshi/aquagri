@@ -74,7 +74,7 @@ WSGI_APPLICATION = 'aquagri.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
-'''
+
 
 DATABASES = {
     'default': {
@@ -93,7 +93,7 @@ DATABASES = {
         'PORT':3306,
     }
 }
-
+'''
 
 
 
